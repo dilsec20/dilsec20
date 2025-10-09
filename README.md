@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Programming & Ethical Hacking 
 - 🌱 I’m currently doing Competitive Programming 
 - 💞️ I’m looking to collaborate on Hackerone & Bugcrowd
-- 📫 How to reach me telegram id - @dilsec20 & on X - dilsec18
+- 📫 How to reach me telegram id -  X - dilsec18
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
