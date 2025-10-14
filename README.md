@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dilsec20
 - 👀 I’m interested in Competitive Programming & Ethical Hacking 
 - 🌱 I’m currently doing Competitive Programming
--     My codeforces id - slayer_05. 
+-     My codeforces id - Dragon.Slayer.
+-     My codechef  id - cp_coder06
 - 💞️ I’m looking to collaborate on Hackerone & Bugcrowd 7 codeforces
 - 📫 How to reach me telegram id -  X - dilsec18
 -     Gmail - dilipkumar2832005@gmail.com
