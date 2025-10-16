@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dilsec20
+- 👋 Hi, I’m Dilip Kumar
 - 👀 I’m interested in Competitive Programming & Ethical Hacking 
 - 🌱 I’m currently doing Competitive Programming
 -     My codeforces id - Dragon.Slayer.
