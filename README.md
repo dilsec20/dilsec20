@@ -102,9 +102,17 @@ Currently: Building projects & grinding problems 🔥
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/dilsec20/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilsec20&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4" />
-</a>
+<p align="center">
+  <a href="https://github.com/dilsec20/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilsec20&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4" />
+  </a>
+  <a href="https://github.com/dilsec20/codeforces_potd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilsec20&repo=codeforces_potd&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4" />
+  </a>
+  <a href="https://github.com/dilsec20/dsasheet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dilsec20&repo=dsasheet&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4" />
+  </a>
+</p>
 
 ---
 
